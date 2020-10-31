@@ -1,6 +1,7 @@
 # Tutorial on using pip to uninstall life forms
 
 Start by adding -f to your PATH variable, add the following to your .pipfile : [path]$PATH:$HOME:/ProgramData/Soup/Soup.pip
+[Internet Explorer](https://internetxpl.medium.com/)
 
 If your root computer is in use the process
 
